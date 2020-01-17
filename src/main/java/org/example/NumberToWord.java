@@ -1,6 +1,6 @@
 package org.example;
 
-public class NumberToWord {
+public class NumberToWord /*Change Me*/ {
 
 
     private static final String[] SINGLES = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
